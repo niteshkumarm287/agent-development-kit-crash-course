@@ -101,3 +101,7 @@ In the community you'll find:
 - Early access to code from YouTube projects
 - A network of AI developers of all skill levels ready to help
 - Behind-the-scenes looks at how these apps are built
+
+## Development and review
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks, configuration handling, and the review workflow.
